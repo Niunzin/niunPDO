@@ -3,9 +3,9 @@
 class niunPDO {
 	/**
 	 *	niunPDO
-		
+	 *
 	 *	A maneira mais rápida de gerenciar suas conexões.
-		
+	 *
 	 *	Autor: Niunzin
 	 *	Versão: 1.0.0
 	 *	Sinta-se livre para editar e redistribuir, sem necessidade de licenças
